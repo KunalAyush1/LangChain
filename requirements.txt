@@ -11,3 +11,5 @@ huggingface-hub
 python-dotenv
 numpy
 scikit-learn
+torch
+sentence-transformers
